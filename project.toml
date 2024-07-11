@@ -1,0 +1,10 @@
+[project]
+name = "Brimstone"
+libraries = ["lib/"]
+
+[task]
+
+[task.main]
+source = "src/"
+output = ["~/Servers/Minecraft/1.20.1/Hyacinth/modules/Brimstone.jar"]
+input = ["mod.yml"]

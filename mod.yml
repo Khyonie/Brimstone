@@ -1,0 +1,6 @@
+name: Brimstone
+package: coffee.khyonieheart.brimstone
+description: Various mechanics and utilities for my servers
+entry: coffee.khyonieheart.brimstone.Brimstone
+version: 1.0.0
+author: Khyonie#2082
